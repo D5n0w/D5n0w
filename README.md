@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D5n0w
-- 👀 I’m interested in insert myself in the world of Cyber Security
-- 🌱 I’m currently learning Pentesting
+- 🎓 I’m currently graduated in Superior Technologist in Systems Analysis and Development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on help solve problems and questions
 - 📫 How to reach me: petrigusmao@gmail.com
 
