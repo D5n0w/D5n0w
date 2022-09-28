@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D5n0w
 - 🎓 I’m currently graduated in Superior Technologist in Systems Analysis and Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Pentesting
 - 💞️ I’m looking to collaborate on help solve problems and questions
 - 📫 How to reach me: petrigusmao@gmail.com
 
